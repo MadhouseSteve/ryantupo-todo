@@ -5,5 +5,8 @@ Todo:
   ✔ Start web server @done(20-09-29 20:31)
   ✔ Create list @done(20-09-29 20:31)
   ✔ Add item @done(20-09-29 20:31)
-  ☐ Mark item as done
-  ☐ Remove item
+  ✔ Mark item as done @started(20-10-06 19:50) @done(20-10-06 19:58) @lasted(8m55s)
+  ✔ Remove item @done(20-10-06 20:08)
+  ✔ Save data @done(20-10-06 20:08)
+  ✔ Make pretty @done(20-10-06 21:20)
+  ☐ Sub list
